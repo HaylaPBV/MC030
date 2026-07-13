@@ -1,6 +1,6 @@
-# MC030 — Previsão de Demanda em Network Slicing 5G
+# MC030 — Análise Comparativa de Arquiteturas de Deep Learning para Predição de Tráfego em Redes 5G
 
-Projeto final de graduação **MC030** da Universidade Estadual de Campinas (UNICAMP).
+Projeto final de graduação do curso de Engenharia de Computação da Universidade Estadual de Campinas (UNICAMP).
 
 O objetivo é comparar modelos de aprendizado de máquina para a **previsão de séries temporais multivariadas** de tráfego em redes 5G com *network slicing*, avaliando Transformers, redes neurais clássicas e baselines estatísticos.
 
