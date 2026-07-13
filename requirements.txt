@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+torch
+transformers>=4.40
+pmdarima
+statsmodels
+jupyter
