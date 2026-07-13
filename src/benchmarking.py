@@ -1,5 +1,5 @@
 # =============================================================================
-# PFG - Network Slicing 5G (LTSF) — Benchmarking
+# PFG - Análise Comparativa de Arquiteturas de Deep Learning para Predição de Tráfego em Redes 5G
 #
 # Pipeline completo: pré-processamento → normalização → janelamento →
 # treinamento (PatchTST + ablação + SSL, CNN1D, LSTM, DLinear, SARIMA,
